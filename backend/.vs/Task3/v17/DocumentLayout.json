@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\dtos\\cartitemsresponsive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\dtos\\cartitemsresponsive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\dtos\\addcartitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\dtos\\addcartitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\controllers\\productscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\controllers\\productscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\dtos\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\dtos\\categoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\dtos\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\dtos\\productrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\dtos\\usersrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\dtos\\usersrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\AppData\\Local\\SourceServer\\e887fdc477287f54fdeb059aed1548b0a33eba9a87fc0f407b824ef28b3b0d0d\\Task3\\Task3\\Controllers\\ProductsController .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\AppData\\Local\\SourceServer\\a5ff4fc760a00dc4d8f53905265fe5dde8cd5f06e44561eba870b7162261d1b5\\Task3\\Task3\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\uploads\\screenshot 2024-08-19 132936.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\uploads\\screenshot 2024-08-19 132936.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|c:\\users\\orange\\downloads\\core task 6\\backend\\task3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87A15442-9A6E-4AA0-B73F-DD4D57D332E9}|Task3\\Task3.csproj|solutionrelative:task3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Controllers\\CartItemsController.cs",
+              "RelativeDocumentMoniker": "Task3\\Controllers\\CartItemsController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Controllers\\CartItemsController.cs",
+              "RelativeToolTip": "Task3\\Controllers\\CartItemsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwCYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:00:43.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController .cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Controllers\\ProductsController .cs",
+              "RelativeDocumentMoniker": "Task3\\Controllers\\ProductsController .cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Controllers\\ProductsController .cs",
+              "RelativeToolTip": "Task3\\Controllers\\ProductsController .cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T23:20:37.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItemsResponsive.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\DTOs\\CartItemsResponsive.cs",
+              "RelativeDocumentMoniker": "Task3\\DTOs\\CartItemsResponsive.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\DTOs\\CartItemsResponsive.cs",
+              "RelativeToolTip": "Task3\\DTOs\\CartItemsResponsive.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:56:01.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCartItemsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\DTOs\\AddCartItemsDto.cs",
+              "RelativeDocumentMoniker": "Task3\\DTOs\\AddCartItemsDto.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\DTOs\\AddCartItemsDto.cs",
+              "RelativeToolTip": "Task3\\DTOs\\AddCartItemsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:07:32.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Task3\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Task3\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T23:18:26.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "categoryRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\DTOs\\categoryRequestDTO.cs",
+              "RelativeDocumentMoniker": "Task3\\DTOs\\categoryRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\DTOs\\categoryRequestDTO.cs",
+              "RelativeToolTip": "Task3\\DTOs\\categoryRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:53:19.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\DTOs\\ProductRequestDTO.cs",
+              "RelativeDocumentMoniker": "Task3\\DTOs\\ProductRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\DTOs\\ProductRequestDTO.cs",
+              "RelativeToolTip": "Task3\\DTOs\\ProductRequestDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:14:17.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Models\\CartItem.cs",
+              "RelativeToolTip": "Task3\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:56:24.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Models\\Product.cs",
+              "RelativeToolTip": "Task3\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:14:40.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Task3\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Task3\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T16:10:35.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsController .cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\AppData\\Local\\SourceServer\\e887fdc477287f54fdeb059aed1548b0a33eba9a87fc0f407b824ef28b3b0d0d\\Task3\\Task3\\Controllers\\ProductsController .cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\e887fdc477287f54fdeb059aed1548b0a33eba9a87fc0f407b824ef28b3b0d0d\\Task3\\Task3\\Controllers\\ProductsController .cs",
+              "ToolTip": "C:\\Users\\Orange\\AppData\\Local\\SourceServer\\e887fdc477287f54fdeb059aed1548b0a33eba9a87fc0f407b824ef28b3b0d0d\\Task3\\Task3\\Controllers\\ProductsController .cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\e887fdc477287f54fdeb059aed1548b0a33eba9a87fc0f407b824ef28b3b0d0d\\Task3\\Task3\\Controllers\\ProductsController .cs [Read Only]",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:07:04.48Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\DTOs\\UsersRequestDTO.cs",
+              "RelativeDocumentMoniker": "Task3\\DTOs\\UsersRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\DTOs\\UsersRequestDTO.cs",
+              "RelativeToolTip": "Task3\\DTOs\\UsersRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:30:27.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Task3\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Task3\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:23:56.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Task3\\Models\\MyDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:03:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T23:16:53.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Models\\User.cs",
+              "RelativeToolTip": "Task3\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:27:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\AppData\\Local\\SourceServer\\a5ff4fc760a00dc4d8f53905265fe5dde8cd5f06e44561eba870b7162261d1b5\\Task3\\Task3\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\a5ff4fc760a00dc4d8f53905265fe5dde8cd5f06e44561eba870b7162261d1b5\\Task3\\Task3\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Orange\\AppData\\Local\\SourceServer\\a5ff4fc760a00dc4d8f53905265fe5dde8cd5f06e44561eba870b7162261d1b5\\Task3\\Task3\\Controllers\\CategoriesController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\a5ff4fc760a00dc4d8f53905265fe5dde8cd5f06e44561eba870b7162261d1b5\\Task3\\Task3\\Controllers\\CategoriesController.cs [Read Only]",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:50:15.093Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Screenshot 2024-08-19 132936.png",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Uploads\\Screenshot 2024-08-19 132936.png",
+              "RelativeDocumentMoniker": "Task3\\Uploads\\Screenshot 2024-08-19 132936.png",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Uploads\\Screenshot 2024-08-19 132936.png",
+              "RelativeToolTip": "Task3\\Uploads\\Screenshot 2024-08-19 132936.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-26T19:48:54.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\Models\\Category.cs",
+              "RelativeToolTip": "Task3\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:02:25.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\appsettings.json",
+              "RelativeDocumentMoniker": "Task3\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Downloads\\Core Task 6\\backend\\Task3\\appsettings.json",
+              "RelativeToolTip": "Task3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T23:16:54.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
